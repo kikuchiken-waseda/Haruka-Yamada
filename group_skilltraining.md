@@ -4,7 +4,7 @@
     - プレプレ分析（GM用）に2種類の音声データとアンケートフォームを用意しました
     - https://docs.google.com/forms/d/e/1FAIpQLSd2USfzP5csufs1G1qDsbQq7Bxd2VgscjkgSAwmt-t8ye8icw/viewform?usp=header
     - 私の声以外がどうしても入ってしまった。
-    - これってPraatとか上手く使えばなんとかなるんですかね？
+    - これってソフトとか上手く使えばなんとかなるんですかね？
       > アンケート項目は先行研究を参考
   - 植田さんの卒論を参考に態度変容の段階分け（まだ途中）
 - **議事録**
